@@ -1,0 +1,14 @@
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\bin\Debug\net8.0\Task5_1.4.exe
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\bin\Debug\net8.0\Task5_1.4.deps.json
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\bin\Debug\net8.0\Task5_1.4.runtimeconfig.json
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\bin\Debug\net8.0\Task5_1.4.dll
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\bin\Debug\net8.0\Task5_1.4.pdb
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\obj\Debug\net8.0\Task5_1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\obj\Debug\net8.0\Task5_1.4.AssemblyInfoInputs.cache
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\obj\Debug\net8.0\Task5_1.4.AssemblyInfo.cs
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\obj\Debug\net8.0\Task5_1.4.csproj.CoreCompileInputs.cache
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\obj\Debug\net8.0\Task5_1.4.dll
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\obj\Debug\net8.0\refint\Task5_1.4.dll
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\obj\Debug\net8.0\Task5_1.4.pdb
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\obj\Debug\net8.0\Task5_1.4.genruntimeconfig.cache
+C:\Users\HOME-PC\source\repos\Practice\Task5_1.4\obj\Debug\net8.0\ref\Task5_1.4.dll

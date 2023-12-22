@@ -1,0 +1,14 @@
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\obj\Debug\net8.0\Task4_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\obj\Debug\net8.0\Task4_1.2.AssemblyInfoInputs.cache
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\obj\Debug\net8.0\Task4_1.2.AssemblyInfo.cs
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\obj\Debug\net8.0\Task4_1.2.csproj.CoreCompileInputs.cache
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\bin\Debug\net8.0\Task4_1.2.exe
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\bin\Debug\net8.0\Task4_1.2.deps.json
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\bin\Debug\net8.0\Task4_1.2.runtimeconfig.json
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\bin\Debug\net8.0\Task4_1.2.dll
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\bin\Debug\net8.0\Task4_1.2.pdb
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\obj\Debug\net8.0\Task4_1.2.dll
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\obj\Debug\net8.0\refint\Task4_1.2.dll
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\obj\Debug\net8.0\Task4_1.2.pdb
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\obj\Debug\net8.0\Task4_1.2.genruntimeconfig.cache
+C:\Users\HOME-PC\source\repos\Practice\Task4_1.2\obj\Debug\net8.0\ref\Task4_1.2.dll
