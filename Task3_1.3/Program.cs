@@ -14,9 +14,7 @@
 
             Random rnd = new Random();
 
-            int max = 0;
-
-            int temp;
+            int max = 0, int temp;
 
             for (int i = 0; i < nums.Length; i++)
             {
